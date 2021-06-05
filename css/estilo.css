@@ -1,0 +1,188 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+   margin: 0;
+   padding: 0;
+}
+
+/*-Background da página*/
+body{
+	/*background: #693;*/
+	background:url(../imagem/back_fundo.png) repeat-x;
+	margin: 0 auto;
+}
+
+/*Início do corpo da página*/
+#geral{
+	width: 800px;
+	height: 630px;
+	position:relative;
+}
+/*Fim do corpo da página*/
+
+/*Início do topo*/
+#topo{
+	width: 800px;
+	height: 100px;
+}
+/*Fim do topo*/
+
+/*Início da barra de menu*/ 
+#navegacao{
+	width: 800px;
+	height: 30px;
+	background:url(../imagem/bg_tabela.jpg) repeat-x;
+}
+
+ul{
+   list-style-type:none;
+}
+
+ul#menu{
+   width: 700px;
+   margin:0 auto;
+}
+
+ul#menu li{
+   position:relative;
+   float:left;
+}
+
+ul#menu li a{
+      display: block;
+      float: left;
+      padding: 0 15px;
+      height: 30px;
+      line-height: 30px;
+      color: #FFF;
+      text-decoration: none;
+	  font-family: calibri;
+	  font-size: 14px; 
+	  border-left:1px #666 solid;
+}
+ul#menu li a:hover{
+	  background: #798D12;
+	  text-decoration:underline;
+   }
+
+/*Fim da barra de menu*/
+
+/*Início do banner com slideshow*/
+#banner{
+	width: 800px;
+	height: 300px;
+	margin:0 auto;
+	padding: 0;
+	overflow:hidden;
+}
+
+/*Fim do banner*/
+
+/*Início do conteúdo*/
+#conteudo{
+	width: 800px;
+	height: 185px;
+	background:#FFF;
+	color: #030;
+	font-family: calibri;
+	font-size: 11px;
+	/*border-bottom: #E8E8E8 1px solid;*/
+	position: relative;
+}
+
+#box1{
+	width: 150px;
+	height: 180px;
+	float:left;
+	padding-top: 4px;
+	/*border-right: #E8E8E8 1px solid;*/
+}
+
+#box_noticia{
+	width: 645px;
+	height: 180px;
+	float: right;
+	text-align:left;
+}
+
+h3{
+	color: #693;
+	font-family:calibri;
+	border-bottom: #999 dashed 1px;
+}
+
+#box{
+	background: #FFF; 
+	width: 300px;
+	height: 250px;
+	padding: 5px;
+	border-right: #E8E8E8 solid 5px;
+}
+
+#box img{
+	text-align: center;
+	padding-right: 4px;
+	padding-bottom: 2px;
+	
+}
+
+#carrousel{
+	width: 645px;
+	height: 160px;
+	overflow:hidden;
+	margin:0 auto;
+}
+
+#carrousel ul{
+	list-style: none;
+	height: 175px;
+	padding: 4px;
+	
+}
+
+#carrousel ul li{
+	text-align:left;
+	display:inline;
+	width: 205px;
+	height: 175px;
+	padding: 4px;
+	border-right: #CCC 1px solid;
+	font-size: 12px;
+	font-family:calibri;
+}
+
+.link{
+	color:#030;
+	text-decoration: none;
+}
+
+.link:hover{
+	color:#690;	
+	text-decoration: underline;
+}
+/*Fim do conteúdo*/
+
+/*Início do rodapé*/
+#rodape{
+	/*background: url(../imagem/bg_tabela.jpg);*/
+	width: 800px;
+	height: 15px;
+	color: #690;
+	font-family: calibri;
+	font-size: 12px;
+	clear: both;
+	padding-top: 2px;
+	border-top: 1px #CCC solid;
+}
+
+.text_rodape{
+	text-align: right;
+	margin-left: 370px;
+}
+
+.text_addthis{
+	text-align: left;
+	margin-left: 0px;
+}
+/*Fim do rodapé*/
