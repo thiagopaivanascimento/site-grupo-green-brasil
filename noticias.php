@@ -4,11 +4,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>::Green Brasil - Consultoria Ambiental::</title>
 
-<!--Início do CSS-->
+<!--Inï¿½cio do CSS-->
 <link href="css/estilo_2.css" type="text/css" rel="stylesheet" />
 <link href="SpryAssets/SpryCollapsiblePanel.css" rel="stylesheet" type="text/css" />
 
-<!--Início do JavaScript-->
+<!--Inï¿½cio do JavaScript-->
 <script type="text/javascript" src="Jquery/jquery-1.4.2.min.js" ></script>
 <script src="SpryAssets/SpryCollapsiblePanel.js" type="text/javascript"></script>
 </head>
@@ -23,90 +23,90 @@
   </div>
   <div id="navegacao">
   <ul id="menu">
-       <li><a href="index.php">Home</a></li>
-       <li><a href="servicos.php">Serviços</a></li>
+  <li><a href="index.php">Home</a></li>
+       <li><a href="servicos.php">ServiÃ§os</a></li>
        <li><a href="empresa.php">Empresa</a></li>
        <li><a href="clientes.php">Clientes</a></li>
-       <li><a href="legislacao.php">Legislação</a></li>
+       <li><a href="legislacao.php">LegislaÃ§Ã£o</a></li>
        <li><a href="artigos.php">Artigos</a></li>
        <li><a href="planeta.php">Planeta</a></li>
-       <li><a href="noticias.php">Notícias</a></li>
+       <li><a href="noticias.php">NotÃ­cias</a></li>
        <li><a href="contato.php">Contato</a></li>
       </ul>
   </div>
  <div id="conteudo">
   <div id="text_titulo">
-      <h2>Últimas notícias</h2>
+      <h2>Ãšltimas notÃ­cias</h2>
       <hr>
       </div>
       <div id="text_conteudo">
         <div id="CollapsiblePanel9" class="CollapsiblePanel">
-            <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de Agosto 2010</div>
+            <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de Agosto 2010</div>
             <div class="CollapsiblePanelContent">
-            <li><a href="noticias/ano_2010/agosto/index.pdf" target="_blank" class="list_news">Projeto Águas Limpas</a></li>
-            <li><a href="noticias/ano_2010/agosto/index 1.pdf" target="_blank" class="list_news">Ilegal, e daí?</a></li>
-            <li><a href="noticias/ano_2010/agosto/index 2.pdf" target="_blank" class="list_news">Capacitação sobre recuperação e proteção de nascentes</a></li>
-            <li><a href="noticias/ano_2010/agosto/index 3.pdf" target="_blank" class="list_news">A ameaça da lei ao verde</a></li>
+            <li><a href="noticias/ano_2010/agosto/index.pdf" target="_blank" class="list_news">Projeto Ã¡guas Limpas</a></li>
+            <li><a href="noticias/ano_2010/agosto/index 1.pdf" target="_blank" class="list_news">Ilegal, e daÃ­?</a></li>
+            <li><a href="noticias/ano_2010/agosto/index 2.pdf" target="_blank" class="list_news">CapacitaÃ§Ã£o sobre recuperaÃ§Ã£o e proteÃ§Ã£o de nascentes</a></li>
+            <li><a href="noticias/ano_2010/agosto/index 3.pdf" target="_blank" class="list_news">A ameaÃ§a da lei ao verde</a></li>
           </div>
         </div>
        <div id="CollapsiblePanel8" class="CollapsiblePanel">
-            <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de Julho 2010</div>
+            <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de Julho 2010</div>
             <div class="CollapsiblePanelContent">
-            <li><a href="noticias/ano_2010/julho/index.pdf" target="_blank" class="list_news">Emissões Aqui, Florestas Lá</a></li>
+            <li><a href="noticias/ano_2010/julho/index.pdf" target="_blank" class="list_news">EmissÃµes Aqui, Florestas LÃ¡</a></li>
             <li><a href="noticias/ano_2010/julho/index 1.pdf" target="_blank" class="list_news">Parceria Ambiental entre as ONGs e o IBAMA</a></li>
-            <li><a href="noticias/ano_2010/julho/index 2.pdf" target="_blank" class="list_news">Ministra: projeto sobre Código Florestal é um passivo ambiental</a></li>
-            <li><a href="noticias/ano_2010/julho/index 3.pdf" target="_blank" class="list_news">Nova política para o lixo</a></li>
+            <li><a href="noticias/ano_2010/julho/index 2.pdf" target="_blank" class="list_news">Ministra: projeto sobre CÃ³digo Florestal Ã© um passivo ambiental</a></li>
+            <li><a href="noticias/ano_2010/julho/index 3.pdf" target="_blank" class="list_news">Nova polÃ­tica para o lixo</a></li>
           </div>
         </div>
       <div id="CollapsiblePanel7" class="CollapsiblePanel">
-            <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de Junho 2010</div>
+            <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de Junho 2010</div>
             <div class="CollapsiblePanelContent">
-            <li><a href="noticias/ano_2010/junho/index.pdf" target="_blank" class="list_news">Emissões Aqui, Florestas Lá</a></li>
+            <li><a href="noticias/ano_2010/junho/index.pdf" target="_blank" class="list_news">EmissÃµes Aqui, Florestas LÃ¡</a></li>
             <li><a href="noticias/ano_2010/junho/index 1.pdf" target="_blank" class="list_news">Parceria Ambiental entre as ONGs e o IBAMA</a></li>
-            <li><a href="noticias/ano_2010/junho/index 2.pdf" target="_blank" class="list_news">Ministra: projeto sobre Código Florestal é um passivo ambiental</a></li>
-            <li><a href="noticias/ano_2010/junho/index 3.pdf" target="_blank" class="list_news">Nova política para o lixo</a></li>
+            <li><a href="noticias/ano_2010/junho/index 2.pdf" target="_blank" class="list_news">Ministra: projeto sobre CÃ³digo Florestal Ã© um passivo ambiental</a></li>
+            <li><a href="noticias/ano_2010/junho/index 3.pdf" target="_blank" class="list_news">Nova polÃ­tica para o lixo</a></li>
           </div>
         </div>
       <div id="CollapsiblePanel6" class="CollapsiblePanel">
-            <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de Maio 2010</div>
+            <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de Maio 2010</div>
             <div class="CollapsiblePanelContent">
-            <li><a href="noticias/ano_2010/maio/barreiras_acusticas.pdf" target="_blank" class="list_news">Barreiras acústicas e poluição sonora</a></li>
-            <li><a href="noticias/ano_2010/maio/consumo_sustentavel.pdf" target="_blank" class="list_news">A hora do consumo sustentável</a></li>
-            <li><a href="noticias/ano_2010/maio/energia_renovavel.pdf" target="_blank" class="list_news">Um sopro de energia renovável</a></li>
+            <li><a href="noticias/ano_2010/maio/barreiras_acusticas.pdf" target="_blank" class="list_news">Barreiras acÃºsticas e poluiÃ§Ã£o sonora</a></li>
+            <li><a href="noticias/ano_2010/maio/consumo_sustentavel.pdf" target="_blank" class="list_news">A hora do consumo sustentÃ¡vel</a></li>
+            <li><a href="noticias/ano_2010/maio/energia_renovavel.pdf" target="_blank" class="list_news">Um sopro de energia renovÃ¡vel</a></li>
             <li><a href="noticias/ano_2010/maio/floresta.pdf" target="_blank" class="list_news">Parque nacional da Serra do Bodoquena</a></li>
-            <li><a href="noticias/ano_2010/maio/mare_negra.pdf" target="_blank" class="list_news">Maré Negra de óleo na costa da Louisiana nos EUA</a></li>
-            <li><a href="noticias/ano_2010/maio/reciclar.pdf" target="_blank" class="list_news">Brasil perde R$ 8 bilhões por não reciclar</a></li>
+            <li><a href="noticias/ano_2010/maio/mare_negra.pdf" target="_blank" class="list_news">MarÃ© Negra de Ã³leo na costa da Louisiana nos EUA</a></li>
+            <li><a href="noticias/ano_2010/maio/reciclar.pdf" target="_blank" class="list_news">Brasil perde R$ 8 bilhÃµes por nÃ£o reciclar</a></li>
           </div>
         </div>
       <div id="CollapsiblePanel5" class="CollapsiblePanel">
-            <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de Abril 2010</div>
+            <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de Abril 2010</div>
             <div class="CollapsiblePanelContent">
-            <li><a href="noticias/ano_2010/abril/fundo_ambiental.pdf" target="_blank" class="list_news">Fundo ambiental para desastres petrolíferos</a></li>
-            <li><a href="noticias/ano_2010/abril/caso_ira.pdf" target="_blank" class="list_news">Caso do Irã - Enriquecimento de urânio</a></li>
-            <li><a href="noticias/ano_2010/abril/gratificacao_agricultor.pdf" target="_blank" class="list_news">Gratificação do Agricultor</a></li>
+            <li><a href="noticias/ano_2010/abril/fundo_ambiental.pdf" target="_blank" class="list_news">Fundo ambiental para desastres petrolÃ­feros</a></li>
+            <li><a href="noticias/ano_2010/abril/caso_ira.pdf" target="_blank" class="list_news">Caso do IrÃ£ - Enriquecimento de urÃ¢nio</a></li>
+            <li><a href="noticias/ano_2010/abril/gratificacao_agricultor.pdf" target="_blank" class="list_news">GratificaÃ§Ã£o do Agricultor</a></li>
           </div>
         </div>
 <div id="CollapsiblePanel4" class="CollapsiblePanel">
-            <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de Mar&ccedil;o 2010</div>
+            <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de Mar&ccedil;o 2010</div>
             <div class="CollapsiblePanelContent">
             <li><a href="noticias/ano_2010/marco/economia_efeitos_aquecimento.pdf" target="_blank" class="list_news">Economia - Efeitos do aquecimento global sobre a economia do Brasil</a></li>
-            <li><a href="noticias/ano_2010/marco/energia_lampadas_nanofibras.pdf" target="_blank" class="list_news">Energia - Lâmpadas de nanofibras superam incandescentes e fluorescentes compactas</a></li>
+            <li><a href="noticias/ano_2010/marco/energia_lampadas_nanofibras.pdf" target="_blank" class="list_news">Energia - LÃ¢mpadas de nanofibras superam incandescentes e fluorescentes compactas</a></li>
           </div>
         </div>
 <div id="CollapsiblePanel3" class="CollapsiblePanel">
-  <div class="CollapsiblePanelTab" tabindex="0"> [+] Notícias de Fevereiro 2010</div>
+  <div class="CollapsiblePanelTab" tabindex="0"> [+] notÃ­cias de Fevereiro 2010</div>
             <div class="CollapsiblePanelContent">
-            <li><a href="noticias/ano_2010/fevereiro/economia_reflorestamento_mercado.pdf" target="_blank" class="list_news">Economia - Mercado de reflorestamento planejado ganha espaço</a></li>
-            <a href="noticias/ano_2010/fevereiro/energia_gerador_caseiro.pdf" target="_blank" class="list_news">Energia - Gerador caseiro promete revolucionar setor energético nos EUA</a></li>
+            <li><a href="noticias/ano_2010/fevereiro/economia_reflorestamento_mercado.pdf" target="_blank" class="list_news">Economia - Mercado de reflorestamento planejado ganha espaÃ§o</a></li>
+            <a href="noticias/ano_2010/fevereiro/energia_gerador_caseiro.pdf" target="_blank" class="list_news">Energia - Gerador caseiro promete revolucionar setor energÃ©tico nos EUA</a></li>
             <li><a href="noticias/ano_2010/fevereiro/politica_sustentabilidade_urna.pdf" target="_blank" class="list_news">Politica  - Sustentabilidade nas Urnas</a></li>
             </div>
         </div>
 <div id="CollapsiblePanel2" class="CollapsiblePanel">
-            <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de Janeiro 2010</div>
+            <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de Janeiro 2010</div>
             <div class="CollapsiblePanelContent">
              <li><a href="noticias/ano_2010/janeiro/clima_o_futuro_mundo.pdf" target="_blank" class="list_news">Clima - O Futuro do mundo</a></li>
-             <li><a href="noticias/ano_2010/janeiro/economia_brasil_ranking.pdf" target="_blank" class="list_news">Economia - Brasil cai de 34º para 62º em ranking ambiental americano</a></li>
-             <li><a href="noticias/ano_2010/janeiro/economia_empresas_multadas.pdf" target="_blank" class="list_news">Economia - Empresas Multadas por poluição Ambiental</a></li>
+             <li><a href="noticias/ano_2010/janeiro/economia_brasil_ranking.pdf" target="_blank" class="list_news">Economia - Brasil cai de 34% para 62% em ranking ambiental americano</a></li>
+             <li><a href="noticias/ano_2010/janeiro/economia_empresas_multadas.pdf" target="_blank" class="list_news">Economia - Empresas Multadas por poluiÃ§Ã£o Ambiental</a></li>
              <li><a href="noticias/ano_2010/janeiro/economia_eua_impostos.pdf" target="_blank" class="list_news">Economia - EUA criam Impostos sobre uso de Sacolas Plasticas</a></li>
              <li><a href="noticias/ano_2010/janeiro/energia_energia_eolica.pdf" target="_blank" class="list_news">Energia - Energia Eolica</a></li>
              <li><a href="noticias/ano_2010/janeiro/lixo_coleta_seletiva.pdf" target="_blank" class="list_news">Lixo - Coleta Seletiva acaba no lixo comum</a></li>
@@ -114,13 +114,13 @@
           </div>
         </div>
         <div id="CollapsiblePanel1" class="CollapsiblePanel">
-          <div class="CollapsiblePanelTab" tabindex="0">[+] Notícias de 2009</div>
+          <div class="CollapsiblePanelTab" tabindex="0">[+] notÃ­cias de 2009</div>
           <div class="CollapsiblePanelContent">
-          <li><a href="noticias/ano_2009/clima_aumento_do_nivel.pdf" target="_blank" class="list_news">Clima - Aumento do nível do Mar Ilhas Maldivas</a></li>
-          <li><a href="noticias/ano_2009/reciclagem_lixo_domestico.pdf" target="_blank" class="list_news">Reciclagem - Lixo Doméstico</a></li>
+          <li><a href="noticias/ano_2009/clima_aumento_do_nivel.pdf" target="_blank" class="list_news">Clima - Aumento do nÃ­vel do Mar Ilhas Maldivas</a></li>
+          <li><a href="noticias/ano_2009/reciclagem_lixo_domestico.pdf" target="_blank" class="list_news">Reciclagem - Lixo DomÃ©stico</a></li>
           <li><a href="noticias/ano_2009/reciclagem_mito_verdade.pdf" target="_blank" class="list_news">Reciclagem - Mito ou verdade</a></li>
-          <li><a href="noticias/ano_2009/clima_nivel_mar_subir.pdf" target="_blank" class="list_news">Clima - Nivel do Mar subirá 8m Temperatura 3graus</a></li>
-          <li><a href="noticias/ano_2009/energia_energia_eolica_china.pdf" target="_blank" class="list_news">Energia - Energia eólica é capaz de suprir toda a demanda da China</a></li>
+          <li><a href="noticias/ano_2009/clima_nivel_mar_subir.pdf" target="_blank" class="list_news">Clima - Nivel do Mar subirÃ¡ 8m Temperatura 3Âºgraus</a></li>
+          <li><a href="noticias/ano_2009/energia_energia_eolica_china.pdf" target="_blank" class="list_news">Energia - Energia eÃ³lica Ã© capaz de suprir toda a demanda da China</a></li>
           </div>
         </div>
         <p>

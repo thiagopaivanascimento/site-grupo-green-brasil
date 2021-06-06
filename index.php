@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
 <title>::Green Brasil - Consultoria Ambiental::</title>
 
-<!--Início do CSS-->
+<!--Inï¿½cio do CSS-->
 <link rel="stylesheet" href="css/estilo.css" type="text/css" media="all" />
 
-<!--Início do JavaScript-->
+<!--Inï¿½cio do JavaScript-->
 <script type="text/javascript" src="Jquery/jquery-1.4.2.min.js" ></script>
 <script type="text/javascript" src="Jquery/jquery.cycle.all.min.js" ></script>
 <script type="text/javascript" src="Jquery/jcarousellite.min.js" ></script>
@@ -26,13 +26,13 @@
     <div id="navegacao">
      <ul id="menu">
        <li><a href="index.php">Home</a></li>
-       <li><a href="servicos.php">Serviços</a></li>
+       <li><a href="servicos.php">ServiÃ§os</a></li>
        <li><a href="empresa.php">Empresa</a></li>
        <li><a href="clientes.php">Clientes</a></li>
-       <li><a href="legislacao.php">Legislação</a></li>
+       <li><a href="legislacao.php">LegislaÃ§Ã£o</a></li>
        <li><a href="artigos.php">Artigos</a></li>
        <li><a href="planeta.php">Planeta</a></li>
-       <li><a href="noticias.php">Notícias</a></li>
+       <li><a href="noticias.php">NotÃ­cias</a></li>
        <li><a href="contato.php">Contato</a></li>
       </ul>
     </div>
@@ -42,7 +42,7 @@
          <li><img src="imagem/slide/slide2.jpg" width="800px" height="300px" alt="Aqueceminento global" /></li>
          <li><img src="imagem/slide/slide3.jpg" width="800px" height="300px" alt="Mudar o planeta" /></li>
          <li><img src="imagem/slide/slide4.jpg" width="800px" height="300px" alt="O Grupo Green Brasil" /></li>
-         <li><img src="imagem/slide/slide5.jpg" width="800px" height="300px" alt="Desenvolvimento Sustentável" /></li>
+         <li><img src="imagem/slide/slide5.jpg" width="800px" height="300px" alt="Desenvolvimento SustentÃ¡vel" /></li>
       </ul>
     </div>
     <div id="conteudo">
@@ -50,8 +50,8 @@
      <table width="100%" border="0" cellspacing="1" cellpadding="1">
       <tr>
       <td align="center">
-       <!-- Inicio Banner Tempo Agora - http://www.tempoagora.com.br -->
-       <iframe src='http://selos.climatempo.com.br/selos/MostraSelo.php?CODCIDADE=321,558,107,84&SKIN=verde' scrolling='no' frameborder='0' width='150' height='180' marginheight='0' marginwidth='0'></iframe>
+       <!-- Inicio Banner Tempo Agora - https://www.tempo.com/widget/ -->
+       <img src="https://www.tempo.com/wimages/foto46c9ccdf28344f338cc07216ba23df2c.png" width="150">
        </td>
       </tr>
       </table> 
@@ -60,7 +60,7 @@
      <table width="100%" border="0" cellspacing="1" cellpadding="1">
       <tr>
       <td align="left">
-      <h3>Últimas notícias</h3>
+      <h3>Ãšltimas notÃ­cias</h3>
       <div id="box_geral">
       <div id="carrousel">
       <ul>
@@ -70,7 +70,7 @@
         <td align="center"><img src="imagem/img_noticia7.jpg" width="205" height="80" /></td>
         </tr>
        <tr> 
-         <td align="justify">A importância da energia renovável para a vida humana</td>
+         <td align="justify">A importÃ¢ncia da energia renovÃ¡vel para a vida humana</td>
          </tr>
          <tr> 
          <td>&nbsp;</td>
@@ -93,7 +93,7 @@
         <td align="center"><img src="imagem/img_noticia8.jpg" width="205" height="80" /></td>
         </tr>
        <tr> 
-         <td align="justify">Brasil perde R$ 8 bilhões por não reciclar</td>
+         <td align="justify">Brasil perde R$ 8 bilhÃµes por nÃ£o reciclar</td>
          </tr>
          <tr> 
          <td>&nbsp;</td>
@@ -116,7 +116,7 @@
         <td align="center"><img src="imagem/img_noticia9.jpg" width="205" height="80" /></td>
         </tr>
        <tr> 
-         <td align="justify">Câmara aprova fundo ambiental contra desastres petrolíferos</td>
+         <td align="justify">CÃ¢mara aprova fundo ambiental contra desastres petrolÃ­feros</td>
          </tr>
          <tr> 
          <td>&nbsp;</td>
@@ -139,7 +139,7 @@
         <td align="center"><img src="imagem/img_noticia1.jpg" width="205" height="80" /></td>
         </tr>
        <tr> 
-         <td align="justify">Mercado de reflorestamento planejado ganha espaço</td>
+         <td align="justify">Mercado de reflorestamento planejado ganha espaÃ§o</td>
          </tr>
          <tr> 
          <td>&nbsp;</td>
@@ -162,7 +162,7 @@
         <td align="center"><img src="imagem/img_noticia2.jpg" width="205" height="80" /></td>
         </tr>
        <tr> 
-         <td align="justify">Energia eólica é capaz de suprir toda a demanda da China, afirmam cientistas</td>
+         <td align="justify">Energia eÃ³lica Ã© capaz de suprir toda a demanda da China, afirmam cientistas</td>
          </tr>
          <tr> 
          <td>&nbsp;</td>
@@ -228,7 +228,7 @@
         <td align="center"><img src="imagem/img_noticia5.jpg" width="205" height="80" /></td>
         </tr>
        <tr> 
-         <td align="justify">Lâmpadas de nanofibras superam incandescentes e fluorescentes compactas</td>
+         <td align="justify">LÃ¢mpadas de nanofibras superam incandescentes e fluorescentes compactas</td>
          </tr>
          <tr> 
          <td>&nbsp;</td>
@@ -248,7 +248,7 @@
         <td align="center"><img src="imagem/img_noticia6.jpg" width="205" height="80" /></td>
         </tr>
        <tr> 
-         <td align="justify">Nas urnas, eleitores levarão em consideração o meio ambiente</td>
+         <td align="justify">Nas urnas, eleitores levarÃ£o em consideraÃ§Ã£o o meio ambiente</td>
          </tr>
          <tr> 
          <td>&nbsp;</td>

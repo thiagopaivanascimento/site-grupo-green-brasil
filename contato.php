@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>::Green Brasil - Consultoria Ambiental::</title>
 
-<!--Início do CSS-->
+<!--Inï¿½cio do CSS-->
 <link href="css/estilo_2.css" type="text/css" rel="stylesheet" />
 </head>
 
@@ -19,13 +19,13 @@
   <div id="navegacao">
    <ul id="menu">
        <li><a href="index.php">Home</a></li>
-       <li><a href="servicos.php">Serviços</a></li>
+       <li><a href="servicos.php">ServiÃ§os</a></li>
        <li><a href="empresa.php">Empresa</a></li>
        <li><a href="clientes.php">Clientes</a></li>
-       <li><a href="legislacao.php">Legislação</a></li>
+       <li><a href="legislacao.php">LegislaÃ§Ã£o</a></li>
        <li><a href="artigos.php">Artigos</a></li>
        <li><a href="planeta.php">Planeta</a></li>
-       <li><a href="noticias.php">Notícias</a></li>
+       <li><a href="noticias.php">NotÃ­cias</a></li>
        <li><a href="contato.php">Contato</a></li>
       </ul>
   </div>
@@ -41,7 +41,7 @@
      contato@grupogreenbrasil.com.br <br />
      rh@grupogreenbrasil.com.br <br /><br /><br />
      
-     <center><h1>Em breve um formulário de contato!</h1></center>
+     <center><h1>Em breve um formulÃ¡rio de contato!</h1></center>
       </div>
   <div id="text_imagem">
   <img src="imagem/imagem_contato.jpg" />

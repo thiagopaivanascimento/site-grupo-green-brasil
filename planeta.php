@@ -4,10 +4,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <title>::Green Brasil - Consultoria Ambiental::</title>
 
-<!--Início do CSS-->
+<!--Inï¿½cio do CSS-->
 <link href="css/estilo_2.css" type="text/css" rel="stylesheet" />
 <style type="text/css">
-<!--
+
 a:visited {
 	color: #FFF;
 }
@@ -18,10 +18,10 @@ a:active {
 	color: #FFF;
 	font-size: 16px;
 }
--->
+
 </style>
 
-<!--Início do Ajax e JavaScript-->
+<!--Inï¿½cio do Ajax e JavaScript-->
 <script src="SpryAssets/SpryAccordion.js" type="text/javascript"></script>
 <link href="SpryAssets/SpryAccordion.css" rel="stylesheet" type="text/css" />
 </head>
@@ -36,14 +36,14 @@ a:active {
   </div>
   <div id="navegacao">
   <ul id="menu">
-       <li><a href="index.php">Home</a></li>
-       <li><a href="servicos.php">Serviços</a></li>
+  <li><a href="index.php">Home</a></li>
+       <li><a href="servicos.php">ServiÃ§os</a></li>
        <li><a href="empresa.php">Empresa</a></li>
        <li><a href="clientes.php">Clientes</a></li>
-       <li><a href="legislacao.php">Legislação</a></li>
+       <li><a href="legislacao.php">LegislaÃ§Ã£o</a></li>
        <li><a href="artigos.php">Artigos</a></li>
        <li><a href="planeta.php">Planeta</a></li>
-       <li><a href="noticias.php">Notícias</a></li>
+       <li><a href="noticias.php">NotÃ­cias</a></li>
        <li><a href="contato.php">Contato</a></li>
       </ul>
   </div>
@@ -60,7 +60,7 @@ a:active {
             <div id="box">
             <br> 
             <p align="justify">
-            <img src="imagem/imagem_agua.jpg" />A água é fundamental para o planeta. Nela, surgiram as primeiras formas de vida, e a partir dessas, originaram-se as formas terrestres, as quais somente conseguiram sobreviver na medida em que puderam desenvolver mecanismos fisiológicos que lhes permitiram retirar água do meio e retê-la em seus próprios organismos. A evolução dos seres vivos sempre foi dependente da água.</p>
+            <img src="imagem/imagem_agua.jpg" />A Ã¡gua Ã© fundamental para o planeta. Nela, surgiram as primeiras formas de vida, e a partir dessas, originaram-se as formas terrestres, as quais somente conseguiram sobreviver na medida em que puderam desenvolver mecanismos fisiolÃ³gicos que lhes permitiram retirar Ã¡gua do meio e retÃ¡-la em seus prÃ³prios organismos. A evoluÃ§Ã£o dos seres vivos sempre foi dependente da Ã¡gua.</p>
               </div>  
             </div>
         </div>
@@ -70,7 +70,7 @@ a:active {
             <div id="box">
             <br> 
             <p align="justify">
-            <img src="imagem/imagem_energia.jpg" />No mundo atual a energia elétrica é indispensável para a sociedade, e seu uso se deve muito ao baixo custo de produção, facilidade de transporte e, relativa, baixa perda na conversão para outros tipos de energia. Atualmente a eletricidade é de tamanha importância que quando ocorre algum imprevisto no seu abastecimento os hospitais, postos de gasolina e escolas usualmente possuem geradores próprios para compensar esta perda. Imagina estar sobrevivendo graças a aparelhos e inexplicavelmente ocorre uma falta de luz, isso não seria nada agradável.</p>
+            <img src="imagem/imagem_energia.jpg" />No mundo atual a energia elÃ©trica Ã© indispensÃ¡vel para a sociedade, e seu uso se deve muito ao baixo custo de produÃ§Ã£o, facilidade de transporte e, relativa, baixa perda na conversÃ£o para outros tipos de energia. Atualmente a eletricidade Ã© de tamanha importÃ¢ncia que quando ocorre algum imprevisto no seu abastecimento os hospitais, postos de gasolina e escolas usualmente possuem geradores prÃ³prios para compensar esta perda. Imagina estar sobrevivendo graÃ§as a aparelhos e inexplicavelmente ocorre uma falta de luz, isso nÃ£o seria nada agradÃ¡vel.</p>
             </div>
           </div>
         </div>
@@ -80,7 +80,7 @@ a:active {
              <div id="box">
               <br> 
                <p align="justify">
-               <img src="imagem/imagem_reciclagem.jpg" />  A essa altura do campeonato onde estamos à beira do perigo com o aquecimento global, reciclar é necessário. Com a reciclagem além de termos um ar mais limpo, água, solo mais saudáveis e férteis poderemos reaproveitar as matérias recicláveis. Reciclar e ajudar o meio ambiente é preciso sempre. Com uma simples você ajuda-nos a ganhar a causa. Para se ter idéia com 50 quilos de papel usados, se transformados em novos, evitamos que uma arvore seja cortada. Cuidar do planeta é necessário, ainda mais nesse momento de ameaça do aquecimento global.
+               <img src="imagem/imagem_reciclagem.jpg" />  A essa altura do campeonato onde estamos Ã  beira do perigo com o aquecimento global, reciclar Ã© necessÃ¡rio. Com a reciclagem alÃ©m de termos um ar mais limpo, Ã¡gua, solo mais saudÃ¡veis e fÃ©rteis poderemos reaproveitar as materiais reciclÃ¡veis. Reciclar e ajudar o meio ambiente Ã© preciso sempre. Com uma simples vocÃª ajuda-nos a ganhar a causa. Para se ter idÃ©ia com 50 quilos de papel usados, se transformados em novos, evitamos que uma arvore seja cortada. Cuidar do planeta Ã© necessÃ¡rio, ainda mais nesse momento de ameaÃ§a do aquecimento global.
               </p>
               </div>
           </div>
@@ -91,10 +91,8 @@ a:active {
            <div id="box">
               <br> 
                <p align="justify">
-               <img src="imagem/imagem_meioamb.jpg" />  Nós seríamos verdadeiramente felizes só de ter a comum ligação com o verde das matas, e não tivessemos a insanidade de declarar guerra contra o verde.O ser humano estará correndo atrás de coisas que nem sabe explicar. O que estamos querendo? Somos o topo da cadeia alimentar, mas somos também assim como todos os seres desde uma simples célula até os grandes animais. Fazemos e compartilhamos de um mesmo espaço. E o mais horrível é ver que somos os únicos que pode mudar isso, os outros seres só ficam na expectativa de sair vivos das queimadas ou dos rios que secam. O triste é ver tanto sofrimento e o homem numa busca desesperada pelo fim dos tempos. O meio ambiente abrange tudo o que está ao nosso redor e nós vivemos nele. Se poluirmos o ar, corremos o risco de acabar com o nosso principal meio de sobrevivência, porque precisamos dele para respirar. Se poluirmos a água, corremos o risco de acabar com a nossa principal fonte de vida, que alimenta as plantas e os animais que nós comemos. 
-Portanto, é essencial que preservemos a nossa casa para que exista meios de prosseguirmos com a vida dos seres vivos na Terra.
-
-
+               <img src="imagem/imagem_meioamb.jpg" />  NÃ£s serÃ­amos verdadeiramente felizes sÃ³ de ter a comum ligaÃ§Ã£o com o verde das matas, e nÃ£o tivessemos a insanidade de declarar guerra contra o verde.O ser humano estarÃ¡ correndo atrÃ¡s de coisas que nem sabe explicar. O que estamos querendo? Somos o topo da cadeia alimentar, mas somos tambÃ©m assim como todos os seres desde uma simples cÃ©lula atÃ© os grandes animais. Fazemos e compartilhamos de um mesmo espaÃ§o. E o mais horrÃ­vel Ã© ver que somos os Ãºnicos que pode mudar isso, os outros seres sÃ³ ficam na expectativa de sair vivos das queimadas ou dos rios que secam. O triste Ã© ver tanto sofrimento e o homem numa busca desesperada pelo fim dos tempos. O meio ambiente abrange tudo o que estÃ¡ ao nosso redor e nÃ³s vivemos nele. Se poluirmos o ar, corremos o risco de acabar com o nosso principal meio de sobrevivÃªncia, porque precisamos dele para respirar. Se poluirmos a Ã¡gua, corremos o risco de acabar com a nossa principal fonte de vida, que alimenta as plantas e os animais que nÃ³s comemos. 
+               Portanto, Ã© essencial que preservemos a nossa casa para que exista meios de prosseguirmos com a vida dos seres vivos na Terra.
               </p>
               </div>
             </div>
